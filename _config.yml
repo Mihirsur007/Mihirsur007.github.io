@@ -31,7 +31,7 @@ resume-url: https://www.linkedin.com/in/mihir-surlaker
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: www.linkedin.com/in/mihir-surlaker   # https://www.linkedin.com/in/{your url slug}
+  linkedin: https://www.linkedin.com/in/mihir-surlaker   # https://www.linkedin.com/in/{your url slug}
              # https://bsky.app/profile/{your url slug}
   
 
