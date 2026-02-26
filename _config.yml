@@ -37,18 +37,36 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Engineering
+    tools:
+    - Computer Aided Design
+    - Rapid Prototyping
+    - DFA
+    - DFM
+    - GD&T
+    - Machining
+    - Bill of Materials
+    - Bench Testing
+
+  - category: Software
     tools:
     - Onshape
+    - Fusion
     - Solidworks
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-  - category: Prototyping
+    - SimScale
+    - Bambu Slicer
+    - Prusa Slicer
+    - MasterCAM
+    - Raspberry Pi
+  
+  - category: Tools
     tools:
-    - CNC
-    - FDM
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - Manual Mill
+    - CNC Mill
+    - CNC Router
+    - FDM 3D Printing
+    - Soldering
+    - Laser Cutting
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
