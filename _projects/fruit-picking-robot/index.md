@@ -12,7 +12,7 @@ skills:
   - Mechanical Design
   - Python
 
-main-image: /robot-full.jpg
+main-image: /robot.jpg
 ---
 
 ## Overview
