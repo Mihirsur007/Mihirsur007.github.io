@@ -31,7 +31,7 @@ The robot consists of three main subsystems:
 - **Single-Stage Elevator** — A belt-driven elevator powered by two VEX V5 motors allows the claw to reach fruit at multiple heights (12.5 in. to 22 in.).
 - **3D-Printed Claw** — A four-bar linkage claw with a VEX AI camera mounted on top detects and grasps fruit while applying well under 1 N of force.
 
-{% include image-gallery.html images="robot-full.jpg" height="450" %}
+{% include image-gallery.html images="robot.jpg" height="450" %}
 
 ---
 
