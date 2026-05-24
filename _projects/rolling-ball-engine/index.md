@@ -21,7 +21,6 @@ The Rolling Ball Engine is a fully machined mechanical engine inspired by the mo
 
 This project focused on taking a mechanical concept from raw material to a working physical assembly, with special attention to machining strategy, surface finish, bearing alignment, and low-friction motion.
 
-{% include image-gallery.html images="rolling-ball-engine.jpg" height="450" %}
 
 ---
 
