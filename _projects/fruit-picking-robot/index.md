@@ -38,6 +38,7 @@ The robot consists of three main subsystems:
 ## Mechanical Design
 
 ### Drivetrain
+
 | Parameter | Value |
 |-----------|-------|
 | Configuration | X-Drive (omnidirectional) |
@@ -46,6 +47,7 @@ The robot consists of three main subsystems:
 | Footprint | 11.75 in x 11.75 in |
 
 ### Elevator
+
 | Parameter | Value |
 |-----------|-------|
 | Type | Single-stage, belt-driven |
@@ -54,6 +56,7 @@ The robot consists of three main subsystems:
 | Position sensing | Limit switch + motor odometry |
 
 ### End Effector
+
 | Parameter | Value |
 |-----------|-------|
 | Design | 4-bar linkage, fully 3D-printed |
