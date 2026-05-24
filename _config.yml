@@ -20,7 +20,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   challenges through teamwork and creativity.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/Avatar.jpeg
+profile_image: /assets/images/profile-image/Avatar.jpeg
 
 
 # Link your resume
