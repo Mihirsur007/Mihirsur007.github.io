@@ -16,7 +16,7 @@ main-image: /wind-tunnel-cad.png
 
 This project explores the design and fabrication of a **3D-printed wind tunnel** for testing small models and visualizing airflow. Built as a personal hobby project to get hands-on experience with aerodynamics, the tunnel is an open-circuit (blower-style) design, modular and easy to iterate as the test section, fan, and flow-conditioning components are refined.
 
-{% include image-gallery.html images="wind-tunnel-hero.jpeg" height="400" %}
+{% include image-gallery.html images="wind-tunnel-cad.png" height="400" %}
 
 ---
 
@@ -47,7 +47,7 @@ This subsystem uses an **ultrasonic mist maker (fogger disc)** and tubes routed 
 
 - **Mist source:** Ultrasonic fogger disc, generating visible water-vapor mist
 
-{% include image-gallery.html images="wind-tunnel-flow-visualization.png","wind-tunnel-flow-visualization1.png" height="400" %}
+{% include image-gallery.html images="wind-tunnel-flow-visualization.png, wind-tunnel-flow-visualization1.png" height="400" %}
 
 ---
 
@@ -88,8 +88,7 @@ Air exits the viewing chamber through the rear honeycomb panel, which keeps test
 | Airspeed | Not instrumented in this version | Planned upgrade — see Future Improvements |
 | Flow visualization | Ultrasonic mist maker + acrylic viewing panel | Achieved steady, usable airflow suitable for observing flow patterns |
 
-{% include image-gallery.html images="wind-tunnel-testing1.png","wind-tunnel-testing2.png" 
- height="400" %}
+{% include image-gallery.html images="wind-tunnel-testing1.png, wind-tunnel-testing2.png" height="400" %}
 {% include youtube-video.html id="Hl_rFnjx6ew" autoplay="false" width="900px" %}
 
 ---
