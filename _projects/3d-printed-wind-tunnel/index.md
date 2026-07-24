@@ -35,7 +35,7 @@ The wind tunnel is divided into three main sections: the inlet, the viewing cham
 Describe how the inlet brings air into the wind tunnel. Explain the shape, dimensions, and any features intended to reduce turbulence or prepare the airflow before it enters the viewing chamber.
 
 - **Inlet geometry:** Designed with a **4:1 contraction ratio**, within the typical 4:1–9:1 range recommended for this scale of open-circuit wind tunnel to accelerate and settle the incoming air before the test section
-- **Flow conditioning:** A honeycomb flow straightener sits at the inlet to break up turbulence and straighten the airflow before it reaches the test section — this went through several design iterations (see Results below) to get airflow clean enough for reliable visualization
+- **Flow conditioning:** A honeycomb flow straightener sits at the inlet to break up turbulence and straighten the airflow before it reaches the test section.
 
 {% include image-gallery.html images="wind-tunnel-inlet.png" height="400" %}
 
