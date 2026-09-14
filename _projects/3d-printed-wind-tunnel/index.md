@@ -88,8 +88,7 @@ Air exits the viewing chamber through the rear honeycomb panel, which keeps test
 | Airspeed | Not instrumented in this version | Planned upgrade — see Future Improvements |
 | Flow visualization | Ultrasonic mist maker + acrylic viewing panel | Achieved steady, usable airflow suitable for observing flow patterns |
 
-{% include image-gallery.html images="wind-tunnel-testing1.png, wind-tunnel-testing2.png" height="400" %}
-{% include youtube-video.html id="Hl_rFnjx6ew" autoplay="false" width="900px" %}
+{% include youtube-video.html id="XrmgTkJlf5E" autoplay="false" width="900px" %}
 
 ---
 
